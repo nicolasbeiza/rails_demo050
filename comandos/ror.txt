@@ -1,0 +1,4 @@
+rails s -> rails server -> rails server -b 0.0.0.0
+rails g controller nombreDelControlador (technology es el nombre que se creó)
+rails routes -> muestra las rutas creadas
+Ssh -p 2222 inforcap@127.0.0.1 -> entra al servidor
